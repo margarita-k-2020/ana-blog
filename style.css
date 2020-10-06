@@ -28,7 +28,6 @@ p {
   background-image: url('view.jpg');
   background-position: center;
   background-size: cover;
-  opacity: 0.5;
   height: 46rem;
   background-repeat: no-repeat;
   display: flex;
